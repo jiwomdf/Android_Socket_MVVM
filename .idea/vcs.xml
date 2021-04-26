@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/AndroidJetpackTesting" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AndroidRoomDatabasePractice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/BelajarDagger" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Clean-Notes" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CustomBottomSheet" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Dicoding/Academy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Dicoding/MovieCatalogue" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Dicoding/MyNoteApps" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/EDCMachineAndroidPrintPractice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ImageBannerSlider" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ImageSearchApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Lari Kuy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Latihan" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Latihan2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/LatihanRequestPermission" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MVVM_Generator_By_Jiwo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MiniStockBitApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MoviePlot" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Paging3Example" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Peototype_EMoney" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PrototypeAplikasiGrup4" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/RunningAppYT" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SimpleNotification" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Solat Kuy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Study MVVM/MockAppMVVM" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Study MVVM/mvvm-starter" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/StudyNavigationComponent" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/TabLayoutApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/katili_jiwo_adi_wiyono_takehome" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/material-components-android-examples" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/snapassigmenttesting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
